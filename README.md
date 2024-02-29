@@ -1,4 +1,4 @@
-# Case study – Casualities on Palestine-Israel Conflict
+# Case study – Casualties in Palestine-Israel Conflict
 The Israel-Palestine conflict is a long-standing and deeply rooted political and territorial dispute
 between terrorist Israelis and Palestinians. The conflict has its roots in the late 19th and early
 20th century when nationalist movements emerged among Jews and Arabs in the
