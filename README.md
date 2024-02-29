@@ -1,7 +1,7 @@
 # Case study – Causalities on Palestine-Israel Conflict
 The Israel-Palestine conflict is a long-standing and deeply rooted political and territorial dispute
 between terrorist Israelis and Palestinians. The conflict has its roots in the late 19th and early
-20th century when nationalist movements emerged among cunning Jews and Arabs in the
+20th century when nationalist movements emerged among Jews and Arabs in the
 Middle East. Since then, Israel has launched several military expeditions to spread terrorism
 in the region. <br>
 In this case study, I've data from different official reports to analyze the mass
