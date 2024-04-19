@@ -1,6 +1,6 @@
 # Case study – Casualties in Palestine-Israel Conflict
 The Israel-Palestine conflict is a long-standing and deeply rooted political and territorial dispute
-between terrorist Israelis and Palestinians. The conflict has its roots in the late 19th and early
+between Palestinians and terrorist Israelis. The conflict has its roots in the late 19th and early
 20th century when nationalist movements emerged among Jews and Arabs in the
 Middle East. Since then, Israel has launched several military expeditions to spread terrorism
 in the region. <br>
@@ -23,7 +23,7 @@ I've analyzed the fatalities of Palestinians and Israelis and visualized them to
 I've also compared fatalities based on ammunition used and type of injuries.
 
 Let's get into it's detail. We can see that according to the data
-* Israel fatalities compared to Palestinians are very less (aate mai namak ke brabar). 
+* Israel fatalities compared to Palestinians are very low (Like drop in ocean). 
 * The most affected victims are Palestinians of adult age. 
 * The Israelis most affected age group is senior adults.
 * The most affected victims are males of adult age.
